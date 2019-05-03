@@ -1,4 +1,5 @@
 # Start Here
+![GitHub last commit](https://img.shields.io/github/last-commit/Programazing/Start_Here.svg)
 
 Hi there, I'm Christopher. Welcome to my GitHub account. If you want to know more about me you can check out the [About](https://thatamazingprogrammer.com/about/) section of my website.
 
