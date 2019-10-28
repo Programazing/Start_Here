@@ -5,6 +5,29 @@ Hi there, I'm Christopher. Welcome to my GitHub account. If you want to know mor
 
 Since I have so many repositories I wanted to make a guided tour because that sounds so much better than calling it a directory.
 
+## Public Projects
+#### Desktop Applications
+[Shoebox](https://github.com/Programazing/Shoebox)  
+An Open Source File Orginizer
+#### Web Applications
+[OpenSchoolLibrary](https://github.com/Programazing/OpenSchoolLibrary)  
+An Open Source Library Management Web Application geared towards schools
+#### Libraries
+[Add-Delimiter-To-File](https://github.com/Programazing/Add-Delimiter-To-File)  
+A small library to add a deilimiter to a document
+
+## Personal Projects
+#### Challenges/Exercises
+#### Libraries
+
+[ISBN-Validation](https://github.com/Programazing/ISBN-Validation)  
+A library that validates ISBN numbers
+
+[Thanos](https://github.com/Programazing/Thanos)  
+A .Net Core library that reduces the size of a List<T> by half randomly
+#### Websites
+
+
 ## Public Contributions
 #### Local
 [Buffalo Tech Resources](https://github.com/Programazing/buffalo-tech-resources)  
