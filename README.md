@@ -13,6 +13,9 @@ An Open Source File Orginizer
 [OpenSchoolLibrary](https://github.com/Programazing/OpenSchoolLibrary)  
 An Open Source Library Management Web Application geared towards schools
 #### Libraries
+[SettingsManager](https://github.com/Programazing/SettingsManager)  
+A static User Settings Manager 
+
 [Add-Delimiter-To-File](https://github.com/Programazing/Add-Delimiter-To-File)  
 A small library to add a deilimiter to a document
 
