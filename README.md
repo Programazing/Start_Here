@@ -16,7 +16,7 @@ An Open Source Library Management Web Application geared towards schools
 [SettingsManager](https://github.com/Programazing/SettingsManager)  
 A static User Settings Manager 
 
-[Add-Delimiter-To-File](https://github.com/Programazing/Add-Delimiter-To-File)  
+[Add Delimiter To File](https://github.com/Programazing/Add-Delimiter-To-File)  
 A small library to add a deilimiter to a document
 
 ## Personal Projects
