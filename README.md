@@ -19,6 +19,10 @@ A static User Settings Manager
 [Add Delimiter To File](https://github.com/Programazing/Add-Delimiter-To-File)  
 A small library to add a deilimiter to a document
 
+#### Themes
+[Strata Theme II](https://github.com/Programazing/hugo-strata-theme-II)
+A Hugo theme I ended up taking over
+
 ## Personal Projects
 #### Challenges/Exercises
 #### Libraries
@@ -35,3 +39,7 @@ A .Net Core library that reduces the size of a `List<T>` by half randomly
 #### Local
 [Buffalo Tech Resources](https://github.com/Programazing/buffalo-tech-resources)  
 [Buffalo New York Technology Companies](https://github.com/Programazing/BuffaloTechnologyCompanies)
+
+#### Themes
+[LoveIt](https://github.com/dillonzq/LoveIt)
+A Hugo theme I contribute to
