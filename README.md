@@ -20,7 +20,7 @@ A static User Settings Manager
 A small library to add a deilimiter to a document
 
 #### Themes
-[Strata Theme II](https://github.com/Programazing/hugo-strata-theme-II)
+[Strata Theme II](https://github.com/Programazing/hugo-strata-theme-II)  
 A Hugo theme I ended up taking over
 
 ## Personal Projects
