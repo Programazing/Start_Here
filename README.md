@@ -41,5 +41,5 @@ A .Net Core library that reduces the size of a `List<T>` by half randomly
 [Buffalo New York Technology Companies](https://github.com/Programazing/BuffaloTechnologyCompanies)
 
 #### Themes
-[LoveIt](https://github.com/dillonzq/LoveIt)
+[LoveIt](https://github.com/dillonzq/LoveIt)  
 A Hugo theme I contribute to
