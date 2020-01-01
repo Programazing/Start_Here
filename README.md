@@ -24,7 +24,7 @@ A small library to add a deilimiter to a document
 A library that validates ISBN numbers
 
 [Thanos](https://github.com/Programazing/Thanos)  
-A .Net Core library that reduces the size of a List<T> by half randomly
+A .Net Core library that reduces the size of a `List<T>` by half randomly
 #### Websites
 
 
