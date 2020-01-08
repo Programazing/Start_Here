@@ -25,6 +25,10 @@ A Hugo theme I ended up taking over
 
 ## Personal Projects
 #### Challenges/Exercises
+
+[Code Wars](https://github.com/Programazing/CodeWars)  
+My solutions to Code Wars challenges
+
 #### Libraries
 
 [ISBN-Validation](https://github.com/Programazing/ISBN-Validation)  
