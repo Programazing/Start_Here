@@ -11,6 +11,9 @@ An Open Source File Orginizer
 [OpenSchoolLibrary](https://github.com/Programazing/OpenSchoolLibrary)  
 An Open Source Library Management Web Application geared towards schools
 #### Libraries
+[Contest Winner From CSV](https://github.com/Programazing/ContestWinnerFromCsv)  
+A NuGet package to pick contest winners from a CSV file exported from Form Services (Google Froms, TypeForm, etc)
+
 [User Settings Manager](https://github.com/Programazing/UserSettingsManager)  
 A statically typed User Settings Manager
 
